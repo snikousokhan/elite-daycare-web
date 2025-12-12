@@ -1,0 +1,7 @@
+{
+  "name": "Elite Daycare web with google",
+  "description": "A premium platform connecting families with trusted, high-quality daycare centers and family services. Features advanced search, tour scheduling, and exclusive offers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
